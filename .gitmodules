@@ -1,0 +1,6 @@
+[submodule "PQM_cmd_to_coe"]
+	path = PQM_cmd_to_coe
+	url = git@github.com:FernandesKA/PQM_cmd_to_coe.git
+[submodule "PQM_gen"]
+	path = PQM_gen
+	url = git@github.com:FernandesKA/PQM_gen.git
